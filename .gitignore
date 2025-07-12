@@ -1,0 +1,17 @@
+# Ignore config with sensitive info
+config.php
+
+# Ignore environment files
+.env
+
+# Ignore database files if any
+*.db
+*.sqlite
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor/IDE folders
+.vscode/
+.idea/
